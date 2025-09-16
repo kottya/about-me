@@ -1,5 +1,16 @@
-K.S
-My passion: Dancing, watching sports, listening to music. I want to be an innovator who can contribute to the sports industry in the future.
-Background: I was born and raised in Japan, and the culture shaped me into the person that I am right now. I have a younger sister, and being the oldest sibling also shaped my personality.
-Interest/Inspiration: People who I respect, such as my parents, my peers and some celebrities, inspire me to become the better version of myself. I was inspired to be an innovator by being a fan of Shohei Ohtani, and knowing about a job called sports analyst.
-Goals: My goal is to always improve and give myself a chance to pursue what I might be interested in. As an innovator, I aim to learn the basic skills around technology, as it is my new interest.
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>About Me</title>
+  </head>
+  <body>
+    <h1>K.S.</h1>
+    <ul>
+  <li>My passion: Dancing, watching sports, listening to music. I want to be an innovator who can contribute to the sports industry in the future.</li>
+  <li>Background: I was born and raised in Japan, and the culture shaped me into the person that I am right now. I have a younger sister, and being the oldest sibling also shaped my personality.</li>
+  <li>Interest/Inspiration: People who I respect, such as my parents, my peers and some celebrities, inspire me to become the better version of myself. I was inspired to be an innovator by being a fan of Shohei Ohtani, and knowing about a job called sports analyst.</li>
+ <li>Goals: My goal is to always improve and give myself a chance to pursue what I might be interested in. As an innovator, I aim to learn the basic skills around technology, as it is my new interest.</li>
+</ul>
+  </body>
+</html>
