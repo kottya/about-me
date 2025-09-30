@@ -1,5 +1,5 @@
 # K.S.
 
-Here is a little [About Me](introduction.md)
+Here is a little [About Me](introduction)
 
-What I learned in [Project PNP](pnp.md)
+What I learned in [Project PNP](projects/pnp)
